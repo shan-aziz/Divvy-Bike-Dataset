@@ -25,7 +25,7 @@ Comprehensive analysis of Divvy bike-sharing system data for 2023, exploring rid
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/yourusername/divvy-analysis.git
+   git clone https://github.com/yourusername/Divvy-Bike-Dataset.git
    ```
 2. Import monthly Divvy datasets into your database
 3. Run the table combination query
